@@ -1,0 +1,23 @@
+
+body {
+    color: #fff;
+    background-color: #4F8BF9;
+}
+.stButton>button {
+    color: #4F8BF9;
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+}
+.stText>text {
+    color: #fff;
+}
+
+.stTextInput>div>div>input {
+    color: #4F8BF9;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.stNumberInput>div>div>input {
+    color: #4F8BF9;
+    background-color: rgba(255, 255, 255, 0.5);
+}
